@@ -2,7 +2,7 @@
     {
         "id": 1,
         "task": "Fare la spesa",
-        "completed": false
+        "completed": true
     },
     {
         "id": 2,
@@ -22,7 +22,7 @@
     {
         "id": 5,
         "task": "Prenotare una cena al ristorante",
-        "completed": false
+        "completed": true
     },
     {
         "id": 6,
