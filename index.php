@@ -34,6 +34,14 @@
                                 </button>
                             </li>
                         </ul>
+                        <div class="form mt-2">
+                            <form action="create.php" method="POST">
+                                <div class="input-group mb-3">
+                                    <input type="text" name="task-name" class="form-control" placeholder="Inserisci elemento..." aria-label="Recipient's username" aria-describedby="button-addon2" required>
+                                    <button class="btn btn-outline-warning" type="button submit" id="button-addon2">Inserisci</button>
+                                </div>
+                            </form>
+                        </div>
                     </div>
                 </div>
             </div>
