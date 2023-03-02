@@ -1,1 +1,37 @@
-[{"task":"nn","completed":false}]
+[
+    {
+        "id": 1,
+        "task": "Fare la spesa",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "task": "Pulire la casa",
+        "completed": false
+    },
+    {
+        "id": 3,
+        "task": "Chiamare l'assicurazione",
+        "completed": false
+    },
+    {
+        "id": 4,
+        "task": "Scrivere una mail al capo",
+        "completed": false
+    },
+    {
+        "id": 5,
+        "task": "Prenotare una cena al ristorante",
+        "completed": false
+    },
+    {
+        "id": 6,
+        "task": "Andare in palestra",
+        "completed": false
+    },
+    {
+        "id": 7,
+        "task": "Leggere un libro",
+        "completed": false
+    }
+]
